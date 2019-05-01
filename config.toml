@@ -1,3 +1,69 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://blog.gas-cast.co.uk"
+languageCode = "en"
+title = "GasCast Podcast"
+theme = "hugo-nuo"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+
+# Disqus Username
+disqusShortname = "gascast-blog"
+
+# Google Analytics UA number
+googleAnalytics = "UA-135227235-1"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Patreon"
+  weight = 27
+  identifier = "patreon"
+  url = "https://www.patreon.com/gascast"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+
+# Add your own params here
+[params]
+  author = "GasCast"
+  bg = "images/grey-prism.svg"
+  avatar = "images/avatar.png"
+  seotitle = "GasCast Podcast"
+  subtitle = "Exclusive interviews and lively debates from four Gasheads with a face for radio."
+  description = "Exclusive interviews and lively debates from four Gasheads with a face for radio."
+  paginate = 10
+
+  # Choose your social networks
+  email = "gascastofficial@gmail.com"
+  twitter = "gas_cast"
+  facebook = "gascast1883"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "106858067962277081719"
+
+  # Overrid theme styles in this file
+  # customStyle = "styles/custom.scss"
+
+  # Changyan Comments (China Only)
+  changyan = false
+  changyanId = "cyt3toRiB"
+  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = "22596E34341DD1D17D6022C44647E587"
