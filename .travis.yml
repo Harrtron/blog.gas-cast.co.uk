@@ -5,6 +5,7 @@ before_install:
   - rm -r -f public
   - bash buildscripts/install_hugo.sh
   - bash buildscripts/install_awscli.sh
+  - bash buildscripts/apply_branding.sh
 jobs:
   include:
     - stage: "Build and Deploy" 
