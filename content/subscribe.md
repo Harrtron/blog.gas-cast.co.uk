@@ -12,6 +12,7 @@ Below is a list of some of the most popular podcast players:
 
 - [Spotify](https://open.spotify.com/show/44gJZTIp1zKZMbjbGIv9HQ)
 - [iTunes](https://podcasts.apple.com/gb/podcast/gascast-bristol-rovers-podcast/id1052602787)
+- [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yNzY2NzEucnNz)
 - [Tunein](https://tunein.com/podcasts/Football/GasCast---Bristol-Rovers-Podcast-p1020077)
 - [Stitcher](https://www.stitcher.com/podcast/gascast-bristol-rovers-podcast-2/gascast-bristol-rovers-podcast)
 - [OverCast](https://overcast.fm/itunes1052602787/gascast-bristol-rovers-podcast)
