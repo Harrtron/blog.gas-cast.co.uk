@@ -17,9 +17,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "Home"
+  name = "Blog"
   weight = 10
-  identifier = "home"
+  identifier = "blog"
   url = "/"
 
 [[menu.main]]
@@ -40,7 +40,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   bg = "images/grey-prism.svg"
   avatar = "images/avatar.png"
   seotitle = "GasCast Podcast"
-  subtitle = "Exclusive interviews and lively debates from four Gasheads with a face for radio."
+  subtitle = "🔈 Exclusive interviews and lively debates from four Gasheads with a face for radio."
   description = "Exclusive interviews and lively debates from four Gasheads with a face for radio."
   paginate = 10
 
@@ -50,15 +50,10 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   facebook = "gascast1883"
   # google = "googlplus_id_number"
   # instagram = "instagram_username"
-  # youtube = "106858067962277081719"
+  #youtube = "UCMMxnHDiNtrTbhwsHOSwiuw"
 
   # Overrid theme styles in this file
   # customStyle = "styles/custom.scss"
-
-  # Changyan Comments (China Only)
-  changyan = false
-  changyanId = "cyt3toRiB"
-  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
 
   # Google Webmaster
   # https://www.google.com/webmasters/

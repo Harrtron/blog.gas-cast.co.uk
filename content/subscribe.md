@@ -4,6 +4,7 @@ date: "2014-04-09"
 layout: "about"
 menu: "main"
 weight: 20
+comments: false
 ---
 
 GasCast should be available on all podcast players. If you're unable to find us by searching, drop us a line at [gascastofficial@gmail.com](mailto:gascastofficial@gmail.com).
