@@ -6,6 +6,8 @@ date: 2019-05-01
 
 Welcome to the GasCast Podcast website.
 
+<!--more--> 
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
 <ins class="adsbygoogle"
@@ -17,8 +19,6 @@ Welcome to the GasCast Podcast website.
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-<!--more--> 
 
 ## About Us
 
