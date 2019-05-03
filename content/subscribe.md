@@ -11,9 +11,9 @@ GasCast should be available on all podcast players. If you're unable to find us 
 
 Below is a list of some of the most popular podcast players:
 
-- [Spotify](https://open.spotify.com/show/44gJZTIp1zKZMbjbGIv9HQ)
-- [iTunes](https://podcasts.apple.com/gb/podcast/gascast-bristol-rovers-podcast/id1052602787)
-- [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yNzY2NzEucnNz)
+- [iTunes](https://podcasts.apple.com/gb/podcast/gascast-bristol-rovers-podcast/id1052602787) (Recommended for Apple devices)
+- [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yNzY2NzEucnNz) (Recommended for Android devices)
+- [Spotify](https://open.spotify.com/show/44gJZTIp1zKZMbjbGIv9HQ) (Recommended for other devices)
 - [Tunein](https://tunein.com/podcasts/Football/GasCast---Bristol-Rovers-Podcast-p1020077)
 - [Stitcher](https://www.stitcher.com/podcast/gascast-bristol-rovers-podcast-2/gascast-bristol-rovers-podcast)
 - [Player FM](https://player.fm/series/gascast-bristol-rovers-podcast)
@@ -21,16 +21,4 @@ Below is a list of some of the most popular podcast players:
 
 <a href="https://www.patreon.com/bePatron?u=17757155" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-----------
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- GasCast Blog Ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8805482732507166"
-     data-ad-slot="7113725307"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
 </script>

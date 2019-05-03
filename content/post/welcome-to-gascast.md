@@ -1,6 +1,7 @@
 ---
 title: Welcome to GasCast Podcast
 tags: ["Announcements"]
+cover: "media/images/gascast-logo.png"
 date: 2019-05-01
 ---
 
