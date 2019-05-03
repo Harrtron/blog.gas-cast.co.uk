@@ -6,6 +6,8 @@ date: 2019-05-01
 
 Welcome to the GasCast Podcast website.
 
+<!--more--> 
+
 ## About Us
 
 Founded in 2015, GasCast is a Bristol Rovers podcast – presented and produced by four supporters with a face for radio! Recorded in the heart of Bristol city centre and released on iTunes, gas-cast.co.uk and the most popular podcast providers, the goal for GasCast is simple: to bring our fellow fans a from-the-terrace view of all the latest on and off-pitch events.
