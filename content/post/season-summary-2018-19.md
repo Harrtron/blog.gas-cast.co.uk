@@ -5,6 +5,18 @@ date: 2019-05-03
 draft: true
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GasCast Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8805482732507166"
+     data-ad-slot="7113725307"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 {{< figure src="https://ichef.bbci.co.uk/onesport/cps/480/cpsprodpb/B0D1/production/_105056254_grahamcoughlanrexfeatures.jpg" height="200" >}}
 
 Off-the-pitch, GasCast surpassed the 50 episode mark this season, and we hope that you all enjoyed listening as much as we enjoyed making the podcast.
@@ -39,3 +51,15 @@ On-the-pitch, however, it was a turbulant season. The whole point of the podcast
 ### Neno
 
 > Neno Quote
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GasCast Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8805482732507166"
+     data-ad-slot="7113725307"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
