@@ -20,3 +20,17 @@ Below is a list of some of the most popular podcast players:
 - [OverCast](https://overcast.fm/itunes1052602787/gascast-bristol-rovers-podcast)
 
 <a href="https://www.patreon.com/bePatron?u=17757155" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+----------
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GasCast Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8805482732507166"
+     data-ad-slot="7113725307"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
