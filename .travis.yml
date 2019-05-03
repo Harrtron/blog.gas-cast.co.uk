@@ -12,6 +12,6 @@ jobs:
       name: "Build and deploy the Hugo static website"
       script:
         - hugo
-        - install_googletracking.sh
+        - bash buildscripts/install_googletracking.sh
         - buildscripts/upload_s3.sh $AWS_ACCESS_KEY $AWS_SECRET_KEY
         
