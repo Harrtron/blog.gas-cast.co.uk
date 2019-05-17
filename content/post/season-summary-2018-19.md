@@ -1,7 +1,7 @@
 ---
 title: Our 2018/19 Season Summary   
 tags: ["Blog", "Harley Thorne", "Max Alderson", "Ollie Neno", "Tom Metcalfe"]
-cover: "media/images/graham-coughlan-darrell-clarke.jpg"
+cover: "/media/images/graham-coughlan-darrell-clarke.jpg"
 date: 2019-05-03
 draft: false
 ---
