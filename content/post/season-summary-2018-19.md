@@ -65,7 +65,11 @@ On-the-pitch, however, it was a turbulant season. The whole point of the podcast
 >
 > We can only hope that he can address the problems with the squad over the summer so we're not back here in 12 months time. We haven't had word from Graham about the kind of football he wants to play either. As long as its better than whats been served up this season I'll be happy. He'll have the fans on his back if its more of the same though.
 
-That's not all from GasCast for the season! We will be bringing you an end-of-season special over the coming weeks. Be sure to [subscribe](/subscribe) to ensure you don't miss it, or any of our episodes when we return for the new season!
+That's not all from GasCast for the season! You can listen to our End of Seaon Special below, and be sure to [subscribe](/subscribe) to ensure you don't miss it, or any of our episodes when we return for the new season!
+
+<script src="https://www.buzzsprout.com/276671/1175522-2018-19-end-of-season-special-part-1.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+<script src="https://www.buzzsprout.com/276671/1175648-2018-19-end-of-season-special-part-2.js?player=small" type="text/javascript" charset="utf-8"></script>
 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
