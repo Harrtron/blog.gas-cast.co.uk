@@ -1,4 +1,4 @@
-baseURL = "http://blog.gas-cast.co.uk"
+baseURL = "http://gas-cast.co.uk"
 languageCode = "en"
 title = "GasCast Podcast"
 theme = "hugo-nuo"
