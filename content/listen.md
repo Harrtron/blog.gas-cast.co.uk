@@ -22,7 +22,7 @@ comments: false
 
 Be sure to [subscribe](/subscribe) in order to receive our latest content automatically.
 
-<script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/276671.js?player=small&limit=20'></script>
+<script type='text/javascript' charset='utf-8' src='http://listen.gas-cast.co.uk/276671.js?player=small&limit=20'></script>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
