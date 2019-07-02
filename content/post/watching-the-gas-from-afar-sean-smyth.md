@@ -3,7 +3,7 @@ title: What I learned watching the Gas from afar
 tags: ["Fan Blog", "Sean Smyth"]
 author: Sean Smyth
 cover: "/media/images/blog/bristol_rovers_fans_1.jpg"
-date: 2019-07-03
+date: 2019-07-02
 ---
 
 Since about the age of about seven, Bristol Rovers has had a place in my heart. I can still remember the first game I ever saw at the Mem, a 1-0 win over Shrewsbury where Lewis Haldane scored the only goal. In my first season watching, we went up and spent the best £300,000 anyone’s ever spent, on a striker by the name of Rickie Lambert. Little seven year old me thought the good times would never end (of course, this being Rovers, I was wrong.) Yet I kept on going through the turnstiles most Saturdays, moving from the stand to the terrace, going to buy a pasty or a sausage roll at half time, and hoping that each game would mark the start of the inevitable rise  to world domination (I believe this fits the definition of insanity, doing the same thing over and over and expecting different results). And I carried on doing this, up until last September.
