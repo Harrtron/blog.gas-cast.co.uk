@@ -1,9 +1,9 @@
 ---
-title: Ronnie Briggs
-tags: ["Gerry Prewett", "A Look Back"]
+title: A Giant between the sticks
+tags: ["Gerry Prewett", "Former Players"]
 author: Gerry Prewett
 cover: "/media/images/blog/briggs/briggs_05.jpg"
-date: 2019-07-24
+date: 2019-07-23
 ---
 
 When Bristol Rovers signed two very tall goalkeepers over the summer my mind immediately went back to the summer of 1965, when Rovers fans felt the excitement of signing Ronnie Briggs a 6’ 3” Northern Irish International, from  Swansea Town.
