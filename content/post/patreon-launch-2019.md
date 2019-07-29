@@ -2,7 +2,7 @@
 title: GasCast needs your support!
 tags: ["Announcements"]
 cover: "/media/images/patreon-sm.jpg"
-date: 2019-07-29
+date: 2019-07-28
 ---
 
 As another season of football begins, we want to make this years GasCast better than ever. We have lots of exciting ideas, but we need your help to make this happen!
