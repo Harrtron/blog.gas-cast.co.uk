@@ -9,6 +9,8 @@ As another season of football begins, we want to make this years GasCast better 
 
  <!--more-->
 
+ <center><a href="https://www.patreon.com/bePatron?u=17757155" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></center>
+
 {{< figure src="/media/images/patreon-sm.jpg" height="250" >}}
 
 GasCast podcast was created by a group of Bristol Rovers supporters to provide an alternative form of content for other Gasheads. By providing raw and honest opinions regarding on-and-off the field developments, we bring fans a different perspective than what is currently available via other Rovers media outlets.
@@ -29,3 +31,5 @@ You can support the show and become a patron by heading to our [patreon profile]
 
 Thanks,
 Harley, Mets, Max and Neno - GasCast.
+
+ <center><a href="https://www.patreon.com/bePatron?u=17757155" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></center>
