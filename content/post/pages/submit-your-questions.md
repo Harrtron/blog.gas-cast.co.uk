@@ -1,7 +1,7 @@
 ---
 title: Have your question answered on the next GasCast!
 tags: ["Pages"]
-cover: "/media/images/gascast-logo.png"
+cover: "/media/images/branding/gascast-2019-logo.jpg"
 date: 2019-04-20
 ---
 

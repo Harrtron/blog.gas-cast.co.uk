@@ -1,5 +1,5 @@
 ---
-title: GasCast Live
+title: GasCast Live Stream
 tags: ["Pages"]
 cover: "/media/images/branding/live.jpg"
 date: 2019-04-20
