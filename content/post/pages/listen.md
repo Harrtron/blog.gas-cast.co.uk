@@ -1,12 +1,11 @@
 ---
-title: "Listen"
-date: "2014-04-09"
-layout: "about"
-menu: "main"
-weight: 15
-cover: "/media/images/gascast-logo.png"
-comments: false
+title: Listen to our latest episodes!
+tags: ["Pages"]
+cover: "/media/images/branding/gascast-2019-logo.jpg"
+date: 2019-04-20
 ---
+
+<!--more--> 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
@@ -20,7 +19,7 @@ comments: false
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Be sure to [subscribe](/subscribe) in order to receive our latest content automatically.
+## Be sure to [subscribe](/subscribe) in order to receive our latest content automatically.
 
 <script type='text/javascript' charset='utf-8' src='http://listen.gas-cast.co.uk/276671.js?player=small&limit=20'></script>
 

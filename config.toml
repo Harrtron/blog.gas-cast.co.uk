@@ -23,6 +23,24 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   url = "/"
 
 [[menu.main]]
+  name = "Listen"
+  weight = 11
+  identifier = "listen"
+  url = "/post/pages/listen"
+
+[[menu.main]]
+  name = "Subscribe"
+  weight = 12
+  identifier = "subscribe"
+  url = "/post/pages/subscribe"
+
+[[menu.main]]
+  name = "Live"
+  weight = 13
+  identifier = "live"
+  url = "/post/pages/live"
+
+[[menu.main]]
   name = "Patreon"
   weight = 27
   identifier = "patreon"

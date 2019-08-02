@@ -1,12 +1,11 @@
 ---
-title: "Live"
-date: "2014-04-09"
-layout: "about"
-menu: "main"
-weight: 20
-cover: "/media/images/live.jpg"
-comments: false
+title: GasCast Live
+tags: ["Pages"]
+cover: "/media/images/branding/live.jpg"
+date: 2019-04-20
 ---
+
+<!--more--> 
 
 If you enjoy this stream, please be sure to [subscribe](/subscribe) to the podcast.
 

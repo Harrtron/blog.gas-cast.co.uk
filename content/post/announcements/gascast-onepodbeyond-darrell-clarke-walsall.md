@@ -1,7 +1,7 @@
 ---
 title: Max discusses Darrell Clarke's appointment at Walsall with One Pod Beyond
 tags: ["Max Alderson", "Guest Appearance", "Darrell Clarke"]
-cover: "/media/images/guest.jpg"
+cover: "/media/images/branding/guest.jpg"
 date: 2019-05-14
 ---
 
