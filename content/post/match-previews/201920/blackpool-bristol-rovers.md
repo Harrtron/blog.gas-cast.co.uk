@@ -46,6 +46,8 @@ Blackpool’s only injury worry seems to be midfielder Matty Virtue, after he li
 |:---------:|:--------------:|
 |{{< figure src="/media/images/match-previews/201920/blackpool/blackpool-lineup.png" height="450" >}}|{{< figure src="/media/images/match-previews/201920/blackpool/bristol-rovers-lineup.png" height="450" >}}|
 
+<script src="https://www.buzzsprout.com/276671/1488028-coughlan-s-cloggers.js?player=small" type="text/javascript" charset="utf-8"></script>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
 <ins class="adsbygoogle"
