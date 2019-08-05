@@ -7,7 +7,7 @@ date: 2019-04-20
 
 <!--more--> 
 
-If you enjoy this stream, please be sure to [subscribe](/subscribe) to the podcast.
+If you enjoy this stream, please be sure to [subscribe](/post/pages/subscribe) to the podcast.
 
 {{< youtube id="/live_stream?channel=UCMMxnHDiNtrTbhwsHOSwiuw" >}}
 
