@@ -21,7 +21,7 @@ date: 2019-04-20
 
 ## Be sure to [subscribe](/post/pages/subscribe) in order to receive our latest content automatically.
 
-<script type='text/javascript' charset='utf-8' src='http://listen.gas-cast.co.uk/276671.js?player=small&limit=5'></script>
+<script type='text/javascript' charset='utf-8' src='http://listen.gascastpodcast.co.uk/276671.js?player=small&limit=5'></script>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
