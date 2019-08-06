@@ -26,7 +26,7 @@ The competition begins at 21:00 on Tuesday 6th August.
 1. Follow us on Twitter: https://twitter.com/gascastpodcast
 2. Retweet this tweet: https://twitter.com/GasCastPodcast/status/1158840636352675840?s=20
 3. Submit this form (accurate details are required for competition entry):
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpnI5Iyr2gkLXQn1NQ2evnw-H5cAa_Q2e62xptI5R3a5kYHw/viewform?embedded=true" width="640" height="1062" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpnI5Iyr2gkLXQn1NQ2evnw-H5cAa_Q2e62xptI5R3a5kYHw/viewform?embedded=true" width="100%" height="1062" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< figure src="/media/images/blog/competitions/carabao.jpg" height="300" >}}
 
