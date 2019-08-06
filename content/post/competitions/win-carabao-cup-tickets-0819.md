@@ -21,10 +21,12 @@ Carabao is currently stocked in Asda, BP, Morrisons, Sainsbury’s, Spa, WHSmith
 
 The competition begins at 21:00 on Tuesday 6th August.
 
-To be in with a chance of winning a pair of tickets, simply complete the competition plugin below. __If you are selected, you will receive an email requesting further details. You must reply to this email by midday Thursday 9th August__.
+### To be in with a chance of winning a pair of tickets, simply follow the steps below:
 
-<a class="e-widget no-button" href="https://gleam.io/vIOpg/carabao-cup-giveaway" rel="nofollow">Carabao Cup giveaway</a>
-<script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
+1. Follow us on Twitter: https://twitter.com/gascastpodcast
+2. Retweet this tweet: https://twitter.com/GasCastPodcast/status/1158840636352675840?s=20
+3. Submit this form (accurate details are required for competition entry):
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpnI5Iyr2gkLXQn1NQ2evnw-H5cAa_Q2e62xptI5R3a5kYHw/viewform?embedded=true" width="640" height="1062" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {{< figure src="/media/images/blog/competitions/carabao.jpg" height="300" >}}
 
