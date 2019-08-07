@@ -1,5 +1,5 @@
 ---
-title: Win a pair of Carabao Cup tickets to Bristol Rovers v Cheltenham Town on Tuesday 13th August!
+title: "CLOSED: Win a pair of Carabao Cup tickets to Bristol Rovers v Cheltenham Town on Tuesday 13th August!"
 tags: ["Competition"]
 cover: "/media/images/blog/competitions/carabao.jpg"
 date: 2019-08-06
@@ -10,6 +10,8 @@ GasCast fans have a chance to win a pair of Carabao Cup tickets to Bristol Rover
  <!--more-->
 
 ### Carabao Energy Drink has teamed up with GasCast to give ten lucky Rovers fans the chance to win a pair of tickets to Bristol Rovers v Cheltenham Town on Tuesday 13th August.
+
+# THIS COMPETITION IS NOW CLOSED.
 
 Currently in its third year as the official title sponsor of the Carabao Cup, South-East Asian energy drink Carabao is continuing to give football fans across the nation the chance to see their team for free by giving away thousands of tickets.
 
@@ -23,10 +25,7 @@ The competition begins at 21:00 on Tuesday 6th August.
 
 ### To be in with a chance of winning a pair of tickets, simply follow the steps below:
 
-1. Follow us on Twitter: https://twitter.com/gascastpodcast
-2. Retweet this tweet: https://twitter.com/GasCastPodcast/status/1158840636352675840?s=20
-3. Submit this form (accurate details are required for competition entry):
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpnI5Iyr2gkLXQn1NQ2evnw-H5cAa_Q2e62xptI5R3a5kYHw/viewform?embedded=true" width="100%" height="1062" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+# THIS COMPETITION IS NOW CLOSED.
 
 {{< figure src="/media/images/blog/competitions/carabao.jpg" height="300" >}}
 
