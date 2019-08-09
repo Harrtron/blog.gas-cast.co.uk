@@ -18,7 +18,7 @@ With the League 1 Transfer deadline just over three weeks away, Rovers boss Grah
 
 Rovers have let Gavin Reilly go out on loan and with Deon Moore only on a short term deal, Coughlan has four strikers at his disposal, two of which are loanees in the form of Tyler Smith and Victor Adeboyejo.
 
-> “I am certainly looking [to add a striker] as well,” [Coughlan told the Bristol Post] (https://www.bristolpost.co.uk/sport/football/transfer-news/state-play-bristol-rovers-transfer-3188200).
+> “I am certainly looking [to add a striker] as well,” [Coughlan told the Bristol Post](https://www.bristolpost.co.uk/sport/football/transfer-news/state-play-bristol-rovers-transfer-3188200).
 
  > “If the right one came up, we lost one yesterday who went away to Fleetwood, Ched Evans was somebody that we liked, but again out of our remit.
 
@@ -32,7 +32,7 @@ Wycombe go into the game after a strong opening day performance at home to Bolto
 
 The last meeting between Rovers and Wycombe at the Memorial Stadium ended in a 1-0 win for the away side and Chairboys manager Gareth Ainsworth is looking forward to another ‘spicy’ encounter.
 
-> “It is a game where we always have a bit of spice because of what has gone on in recent years,” [Ainsworth told the Bucks Free Press] (https://www.bucksfreepress.co.uk/sport/17824771.gareth-ainsworth-previews-sides-clash-bristol-rovers/)
+> “It is a game where we always have a bit of spice because of what has gone on in recent years,” [Ainsworth told the Bucks Free Press](https://www.bucksfreepress.co.uk/sport/17824771.gareth-ainsworth-previews-sides-clash-bristol-rovers/)
 
 > “It is a huge club. They will have 10,000 plus there for their first home game of the season.
 
@@ -55,8 +55,6 @@ __Bristol Rovers:__
 __Wycombe:__
 {{< figure src="/media/images/match-previews/201920/wycombe/wycombe.png" height="450" >}}
 
-
-
 ## Listen to the GasCast BUILD UP to the Wycombe game:
 <script src="https://www.buzzsprout.com/276671/1507768-build-up-wycombe-wanderers-h.js?player=small" type="text/javascript" charset="utf-8"></script>
 
@@ -71,4 +69,3 @@ __Wycombe:__
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
