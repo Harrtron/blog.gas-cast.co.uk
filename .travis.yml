@@ -5,13 +5,11 @@ before_install:
   - rm -r -f public
   - bash buildscripts/install_hugo.sh
   - bash buildscripts/install_awscli.sh
-  - bash buildscripts/apply_branding.sh
 jobs:
   include:
     - stage: "Build and Deploy" 
       name: "Build and deploy the Hugo static website"
       script:
         - hugo
-        - cp buildscripts/assets/ads.txt public/ads.txt
         - buildscripts/upload_s3.sh $AWS_ACCESS_KEY $AWS_SECRET_KEY
         
