@@ -3,7 +3,7 @@ title: "MATCH PREVIEW: Bristol Rovers vs Wycombe Wanderers"
 tags: ["Match Preview", "Simon Gray"]
 author: Simon Gray
 cover: "/media/images/match-previews/201920/wycombe/preview.jpg"
-date: 2019-08-09
+date: 2019-08-08
 ---
 
 Bristol Rovers host Wycombe Wanderers in their first home game of the new season.
