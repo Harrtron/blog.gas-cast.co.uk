@@ -10,7 +10,7 @@ Bristol Rovers start their "2019/20" League One season away at Blackpool with fa
 
 The Gas go into the game having won the final pre-season game 1-0 away at recently relegated and hotly tipped to bounce back up to League One Plymouth Argyle last weekend.
 
-  <!--more-->
+<!--more-->
 
 Much of Rovers’ survival last season was down to the goals of January signing Jonson Clarke-Harris, with the striker netting 11 times in his 16 appearances for the Gas. However, Rovers may be without the striker this weekend after manager Graham Coughlan stated in his pre-match press conference that although he is fit, he may not be selected.
 
