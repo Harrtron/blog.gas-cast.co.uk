@@ -1,7 +1,7 @@
 ---
 title: "FREE GIVEAWAY: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton & Hove Albion on Tuesday 27th August courtesy of Carabao Energy Drink"
 tags: ["Competition"]
-cover: "/media/images/blog/competitions/carabao.jpg"
+cover: "/media/images/blog/competitions/brighton-tickets.jpg"
 date: 2019-08-16
 ---
 Carabao Energy Drink has teamed up with GasCast to give ten lucky Rovers fans the chance to __win a pair of tickets to Bristol Rovers v Brighton & Hove Albion on Tuesday 27th August__.
@@ -25,6 +25,9 @@ _Three pairs of tickets are available to win!_
 __FACEBOOK:__ Simply like our page, https://facebook.com/gascastpodcast, and share the competition post.
 
 _Two pairs of tickets are available to win!_
+
+{{< figure src="/media/images/blog/competitions/brighton-tickets.jpg" height="300" >}}
+
 
 
 For more information about Carabao, please visit: http://www.carabaoenergy.co.uk , @CarabaoUK
