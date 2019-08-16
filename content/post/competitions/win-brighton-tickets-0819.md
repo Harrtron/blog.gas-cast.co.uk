@@ -48,7 +48,7 @@ __Terms and Conditions:__
     * travel insurance;
     * tips, gratuities, room service, drinks or meals; and
     * any other costs associated with the trip.
-8. Winners will be picked at random by GasCast from those that correctly answer the question in relation to the advertised competition. The Prize Draw will be supervised by an independent person.
+8. Winners will be picked at random by GasCast from those that correctly answer the question in relation to the advertised competitions. A maximum of one win over the two competitions. The Prize Draw will be supervised by an independent person.
 9. Unless otherwise notified by the event organizer or club, tickets will be held for collection in person by the winner at the winners’ allocated club. Ticket collection details will be provided by the promoter, once the match date has been confirmed. Tickets may only be collected by the winner and photographic ID (passport / driving license / national ID card) will be required at the point of collection. 
 10. Clubs will be notified of the identity of ticket winners and their guest(s), and databases will be checked against any Club Banning Orders, as well as the National Police Database for those who may be subject to a Court Banning Order. Any persons found subject to a club or court banning order are not eligible to enter this competition or claim the prize.  If a winner’s guest(s) is subject to a club banning order or court banning order then they are not eligible for the prize, and the winner will need to identify a different guest(s).
 11. The competition is open to adults living in the UK above the age of 18 only. Entries from other countries and from those under 18 will not be accepted
