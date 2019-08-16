@@ -2,7 +2,7 @@
 title: "FREE GIVEAWAY: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton & Hove Albion on Tuesday 27th August courtesy of Carabao Energy Drink"
 tags: ["Competition"]
 cover: "/media/images/blog/competitions/brighton-tickets.jpg"
-date: 2019-08-16T17:55:00
+date: 2019-08-16T07:55:00
 ---
 Carabao Energy Drink has teamed up with GasCast to give ten lucky Rovers fans the chance to __win a pair of tickets to Bristol Rovers v Brighton & Hove Albion on Tuesday 27th August__.
 
@@ -54,7 +54,7 @@ __Terms and Conditions:__
 11. The competition is open to adults living in the UK above the age of 18 only. Entries from other countries and from those under 18 will not be accepted
 12. Name changes are not permitted, unless expressly agreed in writing (at the sole discretion of the EFL and/or football club) on a case by case basis.
 13. The prize is non-exchangeable, non-transferable, and is not redeemable for cash or other prizes. The promoter reserves the right to substitute the prize for one of its choosing which has a value the same or greater than the original prize, in the event of circumstances outside its control making the prize unavailable. The prize may be subject to availability and change where expressly stated.
-14. Only one entry per person. Multiple entries from the same person will render all entries void.
+14. Only one entry per person per competition (Facebook and Twitter). Multiple entries from the same person via either channel will render all entries void.
 15. Winners will be bound by any additional terms and rules of conduct set out by the relevant football club, venue host or event organiser (EFL) (including, amongst other things any terms of issue associated with tickets, applicable ground regulations and other policies applicable to visitors at the venue or event). The promoter, event organiser or stadium operators reserve the right to refuse entry and or require winners and/or their guest(s) to leave the venue should the winner or guest(s) not comply with these terms, rules or policies, any applicable law or regulation or other reasonable directions or the promoter, event organiser or stadium operators, or because of winners or guest(s) inappropriate behaviour. Winners are responsible for the behaviour of themselves and their guest(s) whilst taking the Prize.
 16. The winners will be expected to comply with any third- party terms and conditions that form part of the prize, including but not limited to conditions of the EFL and the relevant football club along with the stadium ground regulations. EFL ground regulations can be found here:
     * https://www.efl.com/siteassets/efl-documents/ground-regulations.pdf and apply at all EFL Club stadiums (equivalent regulations apply at Premier League Club stadiums). For any match played at Wembley Stadium the following regulations apply:http://www.wembleystadium.com/TheStadium/StadiumGuide/RulesnRegulations.
