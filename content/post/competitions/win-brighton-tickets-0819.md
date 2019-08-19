@@ -1,5 +1,5 @@
 ---
-title: "FREE GIVEAWAY: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton & Hove Albion on Tuesday 27th August courtesy of Carabao Energy Drink"
+title: "FREE GIVEAWAY: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton on Tuesday 27th August"
 tags: ["Competition"]
 cover: "/media/images/blog/competitions/brighton-tickets.jpg"
 date: 2019-08-16T17:55:00
