@@ -1,5 +1,5 @@
 ---
-title: "FREE GIVEAWAY: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton on Tuesday 27th August"
+title: "CLOSED: Win a pair of Carabao Cup tickets to Bristol Rovers v Brighton on Tuesday 27th August"
 tags: ["Competition"]
 cover: "/media/images/blog/competitions/brighton-tickets.jpg"
 date: 2019-08-16T17:55:00
@@ -18,13 +18,7 @@ Carabao is currently stocked in Asda, BP, Morrisons, Sainsbury’s, Spa, WHSmith
 
 ### How to enter
 
-__TWITTER:__ Simply follow our profile, https://twitter.com/gascastpodcast, and retweet the pinned competition tweet.
-
-_Three pairs of tickets are available to win!_
-
-__FACEBOOK:__ Simply like our page, https://facebook.com/gascastpodcast, and share the pinned competition post.
-
-_Two pairs of tickets are available to win!_
+__THIS COMPETITION IS NOW CLOSED.__
 
 {{< figure src="/media/images/blog/competitions/brighton-tickets.jpg" height="300" >}}
 
