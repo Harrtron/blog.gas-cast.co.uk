@@ -65,8 +65,16 @@ The Ghanaian striker played 140 games in all competitions for the Gas between 20
 
 The club will be holding a minutes applause before Saturday’s clash and they will also be celebrating some of Agogo’s most memorable moments via a montage on the big screen before kick-off.
 
-## Listen to the latest GasCast:
 <script src="https://www.buzzsprout.com/276671/1584406-q-a-will-gasheads-ever-warm-to-graham.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+### Predicted Lineups
+
+#### Bristol Rovers
+{{< figure src="/media/images/match-previews/201920/oxford/bristol-rovers.png" height="450" >}}
+
+#### Oxford United
+{{< figure src="/media/images/match-previews/201920/oxford/oxford-united.png" height="450" >}}
+
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
