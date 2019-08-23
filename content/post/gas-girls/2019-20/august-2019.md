@@ -22,6 +22,18 @@ Our first ever opponents were Merthyr Town, preferred club of Gas Girls club sec
 
 Arriving at the Twertonesque Penydarren Park, fashionably 10 minutes late due to roadworks, there was no sense of occasion as I groped around the perimeter of the ground searching for an open turnstile like a Roomba circumnavigating a particularly disobliging coffee table. Eventually I found my way in and immediately began taking pictures. When Harley agreed to let me blog on the Women's team it was on the understanding that 1) it's hard for me to really analyse the game while looking through a lens and 2) I don't understand football anyway, as readers of [my old blog](http://partizanbristle.blogspot.com/) will attest. Add to that I didn't know who any of the players were at this point and it's not a recipe for great sports journalism.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GasCast Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8805482732507166"
+     data-ad-slot="7113725307"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Well actually I was aware of Rossana Rocha, hotly tipped by Mavis due to her previous experience in the Portuguese Women's Premier League. Although she's been out of the game for some time, she certainly has skill to spare and a cracking left foot. Also known to me was Jamie-Leigh Worlock, a fellow Bristol Manor Farm part-timer and former Almondsbury LFC midfielder. Although not the most physically imposing player, she more than made up for it with a slew of intelligent tackles and an unfaltering work-rate. She's also a very unselfish player, especially considering I know she can score goals from the Almondsbury Twitter. In fact there were tons of great individual performances but unfortunately I just haven't put any more names to faces at this point. Hopefully this will act as motivation for the squad to keep up the good work because what higher accolade can a Bristol Rovers player hope to receive than a glowing review on GasCast?  
 
 {{< figure src="https://live.staticflickr.com/65535/48570223261_811dfb64a1_b.jpg" height="200" >}}
@@ -31,7 +43,16 @@ Rhod Gilbert had a piece of audience patter in his early shows where he would id
 
 A hugely encouraging first run out against a more established side for the girls in blue and white. The next pre-season match will be at home at Lockleaze Sports Centre on Sunday the 1st of September. It's a double header with the development team taking on Salisbury at 1 o'clock followed by the first team against Gloucester City at 3. It's free entry so why not come on down and show your support. Bye for now!
 
+---
+
+# Tom Meadowcroft
+
+__Email:__ [t.d.meadowcroft@gmail.com](mailto:t.d.meadowcroft@gmail.com)
+
+__Twitter:__ [@brwfc_tom](https://twitter.com/brwfc_tom)
+
 <script src="https://www.buzzsprout.com/276671.js?player=large" type="text/javascript" charset="utf-8"></script>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
 <ins class="adsbygoogle"
