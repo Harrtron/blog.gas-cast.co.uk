@@ -64,3 +64,5 @@ __Twitter:__ [@brwfc_tom](https://twitter.com/brwfc_tom)
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"e17a9090e1205ae2df5fea6c4","lid":"b9f5384120","uniqueMethods":true}) })</script>
