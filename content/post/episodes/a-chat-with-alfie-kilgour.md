@@ -2,7 +2,7 @@
 title: "A CHAT WITH : Alfie Kilgour"
 tags: ["A Chat With", "Harley Thorne", "Alfie Kilgour"]
 cover: "/media/images/blog/episodes/alfie-kilgour-bristol-rovers-gascast.jpg"
-date: 2019-08-29T10:30:00
+date: 2019-08-29
 ---
 ## GasCast speak exclusively with Alfie Kilgour following his rise from the youth team.
 
