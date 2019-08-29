@@ -13,15 +13,9 @@ That's just what self-confessed Gashead Alfie Kilgour has done this season, impr
 
 <!--more-->
 
-Harley had the pleasure of speaking with Alfie one-on-one in an exclusive interview, as they discuss his journey from the youth team to the first team.
-
-They look back at the lows: the horrendous injury he suffered when on the brink of breaking into the first team. And the highs: that memorable performance at Plymouth away on his debut. 
-
-From concerns about whether he was good enough when he first became a scholar, to dreaming of one day taking the captaincy, learn all about the makings of Alfie Kilgour.
-
-### If you enjoy this episode, be sure to [subscribe](/post/pages/subscribe/) to receive our latest automatically.
-
 <script src="https://www.buzzsprout.com/276671/1616872-a-chat-with-alfie-kilgour.js?player=small" type="text/javascript" charset="utf-8"></script>
+
+### If you enjoy this episode, be sure to [subscribe](/post/pages/subscribe/) to receive our latest episodes automatically.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
@@ -34,5 +28,11 @@ From concerns about whether he was good enough when he first became a scholar, t
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Harley had the pleasure of speaking with Alfie one-on-one in an exclusive interview, as they discuss his journey from the youth team to the first team.
+
+They look back at the lows: the horrendous injury he suffered when on the brink of breaking into the first team. And the highs: that memorable performance at Plymouth away on his debut. 
+
+From concerns about whether he was good enough when he first became a scholar, to dreaming of one day taking the captaincy, learn all about the makings of Alfie Kilgour.
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"e17a9090e1205ae2df5fea6c4","lid":"b9f5384120","uniqueMethods":true}) })</script>
