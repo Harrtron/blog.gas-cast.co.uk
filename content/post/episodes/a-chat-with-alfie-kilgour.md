@@ -4,13 +4,14 @@ tags: ["A Chat With", "Harley Thorne", "Alfie Kilgour"]
 cover: "/media/images/blog/episodes/alfie-kilgour-bristol-rovers-gascast.jpg"
 date: 2019-08-29
 ---
-## GasCast speak exclusively with Bristol Rovers centre back Alfie Kilgour, following his rise from the youth team.
-
-<!--more-->
 
 As a football supporter, you love to see a local lad rise through the youth academy and burst onto the first team scene. 
 
 That's just what self-confessed Gashead Alfie Kilgour has done this season, impressing fans with his combative performances at the heart of the Bristol Rovers back line.
+
+## GasCast speaks exclusively with Bristol Rovers centre back Alfie Kilgour, following his rise from the youth team.
+
+<!--more-->
 
 Harley had the pleasure of speaking with Alfie one-on-one in an exclusive interview, as they discuss his journey from the youth team to the first team.
 
