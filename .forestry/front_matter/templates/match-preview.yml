@@ -34,3 +34,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/post/match-preview-testing-vs-testing.md
