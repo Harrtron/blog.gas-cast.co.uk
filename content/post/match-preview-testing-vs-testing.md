@@ -2,7 +2,6 @@
 author = "Harley Thorne"
 cover = "/uploads/images/match-previews/201920/burton/burton-albion-lineup.png"
 date = ""
-draft = true
 tags = ["Match Preview", "Simon Gray"]
 title = "MATCH PREVIEW: Testing vs Testing"
 
