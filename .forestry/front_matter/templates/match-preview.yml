@@ -5,15 +5,32 @@ fields:
 - type: text
   name: title
   label: title
+  description: 'eg. MATCH PREVIEW: Burton Albion vs Bristol Rovers'
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
+  description: eg. Simon Gray, Match Previews
+  config:
+    use_select: true
+    max: '2'
+    min: '2'
+    source:
+      type: simple
+    options:
+    - Simon Gray
+    - Match Preview
 - type: text
   name: author
   label: author
+  config:
+    required: true
+  description: eg. Simon Gray
 - type: file
   name: cover
   label: cover
+  description: A featured image for the blog post
 - type: datetime
   name: date
   label: date
