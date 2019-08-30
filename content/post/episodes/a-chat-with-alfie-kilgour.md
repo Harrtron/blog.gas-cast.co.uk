@@ -1,10 +1,13 @@
 ---
-title: "A CHAT WITH : Alfie Kilgour"
-tags: ["A Chat With", "Harley Thorne", "Alfie Kilgour"]
+title: 'A CHAT WITH: Alfie Kilgour'
+tags:
+- A Chat With
+- Harley Thorne
+- Alfie Kilgour
 cover: "/media/images/blog/episodes/alfie-kilgour-bristol-rovers-gascast.jpg"
 date: 2019-08-29
----
 
+---
 As a football supporter, you love to see a local lad rise through the youth academy and burst onto the first team scene. 
 
 That's just what self-confessed Gashead Alfie Kilgour has done this season, impressing fans with his combative performances at the heart of the Bristol Rovers back line.
