@@ -29,5 +29,3 @@ fields:
   - " Match Preview"
   label: Author and Post Type
   description: eg. Simon Gray, Match Preview
-pages:
-- content/post/match-preview-testing-vs-testing.md
