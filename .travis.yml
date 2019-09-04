@@ -3,7 +3,8 @@ language: go
 before_install:
   - chmod +x buildscripts/install_hugo.sh buildscripts/install_awscli.sh buildscripts/upload_s3.sh
   - rm -r -f public
-  - bash buildscripts/install_hugo.sh
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
   - bash buildscripts/install_awscli.sh
 jobs:
   include:
@@ -13,4 +14,3 @@ jobs:
         - hugo version
         - hugo
         - buildscripts/upload_s3.sh $AWS_ACCESS_KEY $AWS_SECRET_KEY
-        
