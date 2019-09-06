@@ -2,7 +2,6 @@
 author = "Simon Gray"
 cover = "https://i2-prod.bristolpost.co.uk/incoming/article1887409.ece/ALTERNATES/s1200/0_JMP_Bristol_Rovers_v_Accrington_Stanley_RH_051JPG.jpg"
 date = "2019-09-05T23:00:00+00:00"
-draft = true
 tags = ["Match Preview", "Simon Gray"]
 title = "MATCH PREVIEW: Bristol Rovers vs Accrington Stanley"
 
