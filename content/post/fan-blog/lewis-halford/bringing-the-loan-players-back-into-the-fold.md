@@ -1,10 +1,10 @@
 +++
 author = "Lewis Halford"
-cover = "/media/images/blog/kyle_bennett.jpg"
-date = "2019-06-03"
+cover = "https://i2-prod.bristolpost.co.uk/incoming/article3295104.ece/ALTERNATES/s1200/0_Bristol-Rovers-v-Accrington-Stanley-070919.jpg"
+date = "2019-09-10T22:00:00+00:00"
 draft = true
 tags = ["Fan Blog", "Lewis Halford"]
-title = "Bringing the loan players back into the fold"
+title = "The never-ending rollercoaster"
 
 +++
 One big thing which has always been needed at Rovers is the use of loan players, both in and out the door. In the summer it was all about who we were able to bring in on loan, which turned out to be two notable additions to the squad in both Jack Bonham and Alex Jakubiak. Alongside this was Joe Martin, however the less said about him the better. Yet when it got to the January transfer window, it was all about who we could get out on loan to allow us to bring players in on permanent transfers. The players then sent out on loan were Kyle Bennett, Sam Matthews, Stefan Payne, Bernard Mensah and Rollin Menayase.
