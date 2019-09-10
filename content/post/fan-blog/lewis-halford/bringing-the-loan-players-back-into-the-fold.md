@@ -1,0 +1,43 @@
++++
+author = "Lewis Halford"
+cover = "/media/images/blog/kyle_bennett.jpg"
+date = "2019-06-03"
+draft = true
+tags = ["Fan Blog", "Lewis Halford"]
+title = "Bringing the loan players back into the fold"
+
++++
+One big thing which has always been needed at Rovers is the use of loan players, both in and out the door. In the summer it was all about who we were able to bring in on loan, which turned out to be two notable additions to the squad in both Jack Bonham and Alex Jakubiak. Alongside this was Joe Martin, however the less said about him the better. Yet when it got to the January transfer window, it was all about who we could get out on loan to allow us to bring players in on permanent transfers. The players then sent out on loan were Kyle Bennett, Sam Matthews, Stefan Payne, Bernard Mensah and Rollin Menayase.
+
+  <!--more-->
+
+The point of sending a player out on loan is usually to allow them a chance to improve their performances so that they are able to come back into the first team straight away when they return. Some of these players performed well, however others not so much.
+
+The one player who stood out during their loan spell was tricky winger Kyle Bennett. His 15 appearances for Swindon returned four goals and two assists along with a number of rave reviews from Swindon fans and manager alike. This led Swindon manager Richie Wellens to state that he wanted to make it a permanent signing this summer, however a few weeks later he returned saying that they would not be able to afford to sign him. So, unless another club comes back in for him, then it looks like Kyle will be staying at Rovers next season.
+
+Originally brought in by Darrell Clarke at the end of the January transfer window in 2018, Bennett was instantly liked by Rovers fans due to his quick feet and his willingness to continually drive the ball forward (that and his equaliser V Oxford away). He finished off the season with three  goals and two assists, but was always involved with the goals scored leading to a number of Man of the Match awards. His next season looked full of promise, however once the season started he became a frustrating player to watch as you could tell that he had the ability to do more with the ball, but never seemed to be able to create a goal in the final third. But as he was a favourite of DC, he was named in the team most weeks. Once DC was sacked though, Bennett was given a lot less game time by new manager Graham Coughlan, with his only appearance coming in the Checkatrade trophy win v Port vale. After this game he was loaned out to Swindon.
+
+What Graham said when letting these players go was that he only wanted fighters in the dressing room, which could explain why Bennet was one of the ones let go as he seems more of a ‘nice’ player than a fighter. However, this season Graham has stated that he wants to play high tempo football using the wings. This is where Bennett could come back into the game. The main part of his game involves driving at the defenders before either cutting back inside or going down the line and crossing the ball in the box. So, after developing a good amount of form when out on loan last season, he could go on to be a key player for Rovers next season if he stays and fights for his place in the side out wide. He can be used on both wings next season and with his creativity he could help to feed JCH up top to help create and score goals.
+
+The next player I mentioned was Sam Matthews. He joined The Gas back at the start of the season on a free having been released by Bournemouth. Another short, tricky winger who had a lot of creativity, leaving Rovers fans excited to see him in action. However, his season didn’t pan out the way in which fans and player alike would’ve wanted it to. He returned only one assist in 23 appearances which was disappointing even if he is still young. One notable thing is the fact that he only managed to last a full 90 minutes four times all season which came in the EFL cup v Crawley and three EFL trophy games. Near the end of March, he joined Eastleigh back on loan until the rest of the season and although he didn’t set the National League on fire, he was still a solid player for Eastleigh in their run to the play-offs at the end of the season.
+
+Next season will either make or break him if he stays at Rovers. He is a left footed wide player who is similar to Kyle Bennett in terms of he’s quick, can get to the by-line and whip it in or cut back inside. This is the sort of player which Graham has said he will need next season as he wants to play high pressing, attacking football. So, Matthews can either slide in on the right or left of a four in midfield or a three up top. This means he is able to adapt to the situation well and when the play is going right, Sam Matthews could turn into a high-class useful player for Rovers next season. 
+
+The next player mentioned has divided Bristol Rovers fans opinions from the minute he walked through the door. From labelling himself ‘Mr 50-50’, to scoring and celebrating against his old club, to gesturing to the fans after a defeat, to hitting the bar in the last-minute against Sunderland. Boring is definitely not something you’d label Stefan Payne’s time at Rovers so far. After his first couple of games, fans began to start thinking that he wasn’t really trying on the pitch, doing things such as not challenging for headers. Despite not scoring Payne was still in the fold as DC continuously played him as the main striker. This changed when DC was sacked, as when Coughlan came in, he preferred Alex Jakubiak up front instead of him. At this point Payne was sent back to Shrewsbury on loan, however he only made five appearances there for the rest of the season. 
+
+Now hear me out on this, I reckon if he improved his attitude and apologised to the fans while beginning to work harder out on the pitch, he could be a key player for us next season. Back in the 2017/18 season he scored 14 goals in a Shrewsbury team which finished 3rd and only lost out on promotion in the Play-off Final. If he’s scored that many goals in a successful team, he can’t be a bad striker and must have something about him. In brief spells for us you could see his aggression almost getting him places on the pitch, including his first goal for us V Accrington. When he was at Shrewsbury, he had Carlton Morris to play alongside. Now back to his time at Rovers, next season he will have JCH , so with him running in behind I reckon these two could end up thriving off each other, both on the pitch and off it. So, while JCH is able to win headers and fire in from long range, Payne would be able to play his natural game as a goal poacher (and not creator). This could benefit us big time and if Graham helps to get him in check, Payne could really help us score some more goals next season.
+
+The final two players mentioned didn’t play a massive part in the season with both being sent out on loan to Aldershot. Although both performed well at times, they were unable to keep Aldershot up. Menayase could come back into the first team set up, possibly as a fourth-choice centre back (Craig, Kilgour and a new signing ahead of him) while playing every game for the Development squad. The other option could be to send him off to play league football for at least the first part of next season before bringing him back in. His loan spell at Swindon was great experience for him while he also performed well, another one of these could be what he needs to make the break into League One football. However, with Bernard Mensah, I’m not sure if there’s much left for him at Bristol Rovers. With Graham wanting to bring in another winger, that would push Mensah out of the picture, so with a year left on his contract would it be better for us to cash in on him, or do we send him on loan for another season? He could fit right into a League Two team next season and if he performs well then, he could be a useful player to us, however he still needs some experience in league football to help him out in his footballing future.
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GasCast Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8805482732507166"
+     data-ad-slot="7113725307"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
