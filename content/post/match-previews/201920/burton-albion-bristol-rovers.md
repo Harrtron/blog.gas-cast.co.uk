@@ -61,6 +61,7 @@ This means that Rovers could come up against former player John-Joe O’Toole wh
 {{< figure src="/media/images/match-previews/201920/burton/bristol-rovers-lineup.png" height="450" >}}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- GasCast Blog Ad -->
 <ins class="adsbygoogle"
      style="display:block"
