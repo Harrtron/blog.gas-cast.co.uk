@@ -4,7 +4,6 @@ tags: ["Fan Blog", "Gerry Prewett"]
 author: Gerry Prewett
 cover: "https://i2-prod.bristolpost.co.uk/incoming/article3345745.ece/ALTERNATES/s1200/0_JMP_AFC_Wimbledon_v_Bristol_Rovers_AG-40.jpg"
 date: 2019-09-24
-draft: true
 ---
 
 How many times have you heard a Manager in an early season interview, having been asked, “Where do you think you will finish this season?” answer, “I’ll tell you after 10 games”. Those early season games are a terrible indication of where teams are going to finish aren’t they. Or are they?
@@ -17,9 +16,13 @@ Our __AVERAGE__ record over those years is: Wins 3.8, Draws 2.6, Losses 3.6 and 
 
 I have also repeated the same table (TABLE 2) but this time I have sorted from fewest to greatest the number of Wins and Draws achieved in those first 10 games. It is the same data, but it is easier to see how good a predictor of eventual finishing positions those first 10 games are.
 
-__TABLE 1, Chronological order:__
+#### TABLE 1, Chronological order:
 
-__TABLE 2, Win, Draw Order:__
+{{< figure src="/media/images/blog/aftertengames/Table1.png" >}}
+
+#### TABLE 2, Win, Draw Order:
+
+{{< figure src="/media/images/blog/aftertengames/Table2.png" >}}
 
 This really does highlight the benefit of a good start. As can be seen immediately above this, with 7 victories in the first 10 games Rovers have never finished lower than 3rd!
 
@@ -33,7 +36,9 @@ We should also take into account the level of the opposition we have met so far.
 
 Whilst Rovers are unbeaten at home draws against the 19 th and 16 th placed teams are a worry. The last two away results have certainly been a real plus. A word of caution also, a number of teams have only played 8 or 9 games and Portsmouth (currently in 20 th spot) have only played 7.
 
-__TABLE 3 Results so far and current position of opposition:__
+#### TABLE 3 Results so far and current position of opposition:
+
+{{< figure src="/media/images/blog/aftertengames/Table3.png" >}}
 
 What conclusions can we draw from this? There is no doubt that Graham Coughlin has found a way for Rovers to win or draw games that they were losing before he took over last season. Whether GasHeads like it or not, he has stopped the rot. Whilst some people think the football is direct it is certainly not the dire performances we saw under Ian Atkin when he also put a halt to a terrible set of results.
 
