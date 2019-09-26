@@ -22,6 +22,9 @@ Who knows how long this most purple of purple-patches will last? At the time of 
 
 {{< figure src="/media/images/blog/jch_01.jpg" height="300" >}}
 
+------
+
+### Alex Jarman
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->

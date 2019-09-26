@@ -18,6 +18,9 @@ I’m not ashamed to admit that Tony Craig is by far my favourite Rovers player.
 
 If you are still amongst the dwindling band of doubters, I would submit two final pieces of evidence. Firstly, his rigid pogo into the Thatcher’s end when James Clarke scored against Fleetwood betrayed an almost catatonic level of competitiveness that we had not seen before - a man so unused to normal human emotion that in that moment of joy, he had no idea how to respond and so just leapt backwards for no apparent reason. And secondly, much has been made of his mastery of ‘the dark arts’, and this is no idle boast. If you watch Tony Craig jog heavily around off the ball, as I have, then you will notice how often, as an opposition attack is building, a striker in Tony’s vicinity, who is just setting off on a run, mysteriously falls over.
 
+-----
+
+### Alex Jarman
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- GasCast Blog Ad -->
