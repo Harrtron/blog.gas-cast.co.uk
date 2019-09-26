@@ -1,3 +1,23 @@
 @import 'partials/variables';
 
 /* Override theme styles here */
+.avatar {
+    width: 10rem;
+    height: 10rem;
+}
+
+.site-header a {
+    font-family: 'Roboto', sans-serif;
+}
+
+.post-detail .post-header .post-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 44px;
+}

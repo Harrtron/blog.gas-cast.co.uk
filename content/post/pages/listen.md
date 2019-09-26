@@ -19,7 +19,7 @@ date: 2019-04-20
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-## Be sure to [subscribe](/post/pages/subscribe) in order to receive our latest content automatically.
+Be sure to [subscribe](/post/pages/subscribe) in order to receive our latest content automatically.
 
 <script type='text/javascript' charset='utf-8' src='http://listen.gascastpodcast.co.uk/276671.js?player=small&limit=5'></script>
 
