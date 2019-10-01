@@ -10,7 +10,6 @@ Carabao Energy Drink has teamed up with GasCast to give eight lucky Gasheads the
 
  {{< figure src="/media/images/blog/competitions/mkdons-tickets.png" height="300" >}}
 
-
 Currently in the third year of its partnership with the EFL, which includes the title sponsorship of the Carabao Cup, South-East Asian energy drink Carabao is proud to support all 72 football league clubs for the 2019/20 season.
 
 Carabao Energy Drinks are great-tasting, fruity low sugar and no sugar drinks that provide an energy boost for everyone, specifically adults of all ages, to get them through their day. Carabao has half the sugar of other leading energy drinks and comes in a range of flavours that taste just like soft drinks, such as Green Apple, Mandarin Orange, Original, Green Apple Sugar Free and Original Sugar Free.
@@ -68,7 +67,7 @@ e.	any other costs associated with the trip.
 17.	https://www.efl.com/siteassets/efl-documents/ground-regulations.pdf and apply at all EFL Club stadiums (equivalent regulations apply at Premier League Club stadiums). For any match played at Wembley Stadium the following regulations apply: http://www.wembleystadium.com/TheStadium/StadiumGuide/RulesnRegulations.
 
 
-18.	Contest Promoter is <Intercarabao Limited, Aquis House, 49-51 Blagrave St, Reading RG1 1PL>. The English Football League is not the promoter of this contest
+18.	Contest Promoter is Intercarabao Limited, Aquis House, 49-51 Blagrave St, Reading RG1 1PL. The English Football League is not the promoter of this contest.
 
 19.	If the entrant is unable to attend the match, the prize is not applicable on any other day
 
