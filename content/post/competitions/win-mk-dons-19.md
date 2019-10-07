@@ -1,5 +1,5 @@
 ---
-title: "Win a pair of Carabao Cup tickets to Bristol Rovers v MK Dons on 12th October"
+title: "CLOSED: Win a pair of Carabao Cup tickets to Bristol Rovers v MK Dons on 12th October"
 tags: ["Competition"]
 cover: "/media/images/blog/competitions/mkdons-tickets.png"
 date: 2019-09-30
@@ -18,11 +18,7 @@ Carabao is currently stocked in Asda, BP, Morrisons, Sainsbury’s, Spar, WHSmit
 
 To be in with a chance of winning this amazing prize, simply check out the four ways you can enter below. One pair of tickets will be awarded on each platform:
 
-- [Twitter](https://twitter.com/gascastpodcast) - check out our pinned post for instructions.
-- [Facebook](https://facebook.com/gascastpodcast) - check out our pinned post for instructions.
-- [Patreon](https://www.patreon.com/gascast) - all of our patrons will be in with a chance to win!
-- [Mailing list](https://mailchi.mp/27e23de94d4c/gascast-signup) - anyone on our mailing list will have a chance to win!
-
+__THIS COMPETITION IS NOW CLOSED.__
 
 
 For more information about Carabao, please visit: http://www.carabaoenergy.co.uk , @CarabaoUK

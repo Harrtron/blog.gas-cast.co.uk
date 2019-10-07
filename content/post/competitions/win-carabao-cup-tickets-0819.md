@@ -11,7 +11,7 @@ GasCast fans have a chance to win a pair of Carabao Cup tickets to Bristol Rover
 
 ### Carabao Energy Drink has teamed up with GasCast to give ten lucky Rovers fans the chance to win a pair of tickets to Bristol Rovers v Cheltenham Town on Tuesday 13th August.
 
-# THIS COMPETITION IS NOW CLOSED.
+__THIS COMPETITION IS NOW CLOSED.__
 
 Currently in its third year as the official title sponsor of the Carabao Cup, South-East Asian energy drink Carabao is continuing to give football fans across the nation the chance to see their team for free by giving away thousands of tickets.
 
