@@ -49,10 +49,10 @@ The Dons are 17th in the League after losing their last four matches but manager
 MK Dons will be without striker Sam Nombe after he was left out of the defeat to the Brewers, he joins fellow frontmen Rhys Healey and Joe Mason in the treatment room.
 
 ## Bristol Rovers:
-{{< figure src="/media/images/match-previews/201920/mkdons/brfc.png" height="450" >}}
+{{< figure src="/media/images/match-previews/201920/mkdons/brfc.png" height="40%" >}}
 
 ### MK Dons:
-{{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" height="450" >}}
+{{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" height="40%" >}}
 
 --- 
 # Simon Gray
