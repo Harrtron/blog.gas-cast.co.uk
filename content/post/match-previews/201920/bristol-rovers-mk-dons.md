@@ -6,15 +6,13 @@ cover: "https://www.mkdons.com/siteassets/image/match/201718/bristol-rovers-a/ga
 date: 2019-10-08
 ---
 
-Bristol Rovers entertain MK Dons this weekend raring to go after their week off.
+# Bristol Rovers entertain MK Dons this weekend raring to go after their week off.
 
 The Gas were due to play Bury last time out but due to Bury’s financial situation off the pitch, they were expelled from the football league in August.
 
 <!--more-->
 
 {{< figure src="https://www.mkdons.com/siteassets/image/match/201718/bristol-rovers-a/gallery/fh3-ca-v-bristol-rovers.jpg" height="450" >}}
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"e17a9090e1205ae2df5fea6c4","lid":"b9f5384120","uniqueMethods":true}) })</script>
 
 The free weekend meant that Rovers could look ahead to their next opponents and also hope that they did not fall down the League One table too much.
 
@@ -56,14 +54,7 @@ MK Dons will be without striker Sam Nombe after he was left out of the defeat to
 ### MK Dons:
 {{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" height="450" >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- GasCast Blog Ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8805482732507166"
-     data-ad-slot="7113725307"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+--- 
+# Simon Gray
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"e17a9090e1205ae2df5fea6c4","lid":"b9f5384120","uniqueMethods":true}) })</script>
