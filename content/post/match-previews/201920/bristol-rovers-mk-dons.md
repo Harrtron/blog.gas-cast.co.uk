@@ -12,7 +12,7 @@ The Gas were due to play Bury last time out but due to Bury’s financial situat
 
 <!--more-->
 
-{{< figure src="https://www.mkdons.com/siteassets/image/match/201718/bristol-rovers-a/gallery/fh3-ca-v-bristol-rovers.jpg" width="30%" >}}
+{{< figure src="https://www.mkdons.com/siteassets/image/match/201718/bristol-rovers-a/gallery/fh3-ca-v-bristol-rovers.jpg" width="80%" >}}
 
 The free weekend meant that Rovers could look ahead to their next opponents and also hope that they did not fall down the League One table too much.
 
@@ -49,10 +49,10 @@ The Dons are 17th in the League after losing their last four matches but manager
 MK Dons will be without striker Sam Nombe after he was left out of the defeat to the Brewers, he joins fellow frontmen Rhys Healey and Joe Mason in the treatment room.
 
 ## Bristol Rovers:
-{{< figure src="/media/images/match-previews/201920/mkdons/brfc.png" height="450" >}}
+{{< figure src="/media/images/match-previews/201920/mkdons/brfc.png" width="80%" >}}
 
 ### MK Dons:
-{{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" height="450" >}}
+{{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" width="80%" >}}
 
 --- 
 # Simon Gray
