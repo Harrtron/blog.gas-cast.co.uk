@@ -33,13 +33,6 @@ Doncaster’s most recent defeat came at the fans of Oxford United last time out
 “I’m disappointed with the result, we needed to show more aggression to capitalise on the game, but we missed those opportunities. It was a bad day, but at times we had chances to get back into it.”
 One plus point from the weekend for Doncaster though was that striker Niall Ennis returned from injury unscathed and will be in contention to start against Rovers this weekend. 
 
-
-## Bristol Rovers:
-{{< figure src="/media/images/match-previews/201920/mkdons/brfc.png" width="40%" >}}
-
-### MK Dons:
-{{< figure src="/media/images/match-previews/201920/mkdons/mkdons.png" width="40%" >}}
-
 --- 
 # Simon Gray
 
