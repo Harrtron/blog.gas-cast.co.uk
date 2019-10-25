@@ -47,10 +47,10 @@ Pompey have no new injury concerns ahead of Saturday’s League One match at Bri
 Brett Pitman is closest to returning to fitness, although the Memorial Stadium contest will likely come too soon for the striker. The match will also come too soon for Oli Hawkins and Bryn Morris.
 
 ## Bristol Rovers:
-{{< figure src="https://ibb.co/WGzV72D" width="60%" >}}
+{{< figure src="https://i.ibb.co/0m9s1GB/BRFC-v-Pompey-lineup.png" width="60%" >}}
 
 ### Portsmouth:
-{{< figure src="https://ibb.co/pwZwjXS" width="60%" >}}
+{{< figure src="https://i.ibb.co/r0M02yV/Pompey-Line-up-v-BRFC.png" width="60%" >}}
 
 --- 
 # Simon Gray
