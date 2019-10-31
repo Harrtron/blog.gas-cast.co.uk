@@ -56,12 +56,12 @@ Barry-Murphy will be without former Bristol City striker Aaron Wilbraham, who wa
 
 With Wilbraham out, Barry-Murphy will hope that top scorer Ian Henderson will be fit for the game against the Gas. The forward started on the bench against Oxford after recovering from a hamstring problem.
 
-### Predicted Starting XI’s
+## Predicted Starting XI’s
 
-## Rochdale:
+### Rochdale:
 {{< figure src="https://i.ibb.co/8XF8yx9/Dale-v-BRFC.png" width="60%" >}}
 
-## Bristol Rovers:
+### Bristol Rovers:
 
 {{< figure src="https://i.ibb.co/7zkYBzK/BRFC-v-Dale.png" width="60%" >}}
 
