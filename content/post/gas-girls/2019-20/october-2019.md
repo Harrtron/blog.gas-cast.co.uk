@@ -3,7 +3,7 @@ title: "GAS GIRLS DIARIES: October 2019"
 tags: ["Gas Girls", "Tom Meadowcroft"]
 author: Tom Meadowcroft
 cover: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/75242096_1368153326696161_1116800533294743552_o.jpg?_nc_cat=109&_nc_oc=AQkwQd33PZ7hEBd_LvVGbMlDm0Hi7qRMZEUHctvrb_urwX4lUBir0lmGVe6EWL2j5gI&_nc_ht=scontent-lhr3-1.xx&oh=f18ff0be5257448cdca877d30e6f41bf&oe=5E5195BE"
-date: 2019-10-17
+date: 2019-11-17
 ---
 
 October got off to a bad start for the Gassy Lassies as their showpiece first home game at the Estádio da Leaze was dramatically postponed at the last minute when Forest of Dean Ladies failed to raise a side. 
