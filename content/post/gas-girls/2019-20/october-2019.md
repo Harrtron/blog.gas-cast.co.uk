@@ -1,8 +1,8 @@
 ---
-title: "GAS GIRLS DIARIES: October 2019"
+title: "GAS GIRLS DIARIES: October 2019 - Up For the Cup"
 tags: ["Gas Girls", "Tom Meadowcroft"]
 author: Tom Meadowcroft
-cover: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/75242096_1368153326696161_1116800533294743552_o.jpg?_nc_cat=109&_nc_oc=AQkwQd33PZ7hEBd_LvVGbMlDm0Hi7qRMZEUHctvrb_urwX4lUBir0lmGVe6EWL2j5gI&_nc_ht=scontent-lhr3-1.xx&oh=f18ff0be5257448cdca877d30e6f41bf&oe=5E5195BE"
+cover: "https://live.staticflickr.com/65535/48855889722_a0fae11bf5_k.jpg"
 date: 2019-11-17
 ---
 

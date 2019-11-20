@@ -27,7 +27,7 @@ The rest of the game was spent watching us lump the ball forward for it to come 
 
 Their set pieces caused chaos in the Rovers box much like in the first leg. The main talking point of the match came from one of their long throws from Chris Bush. The ball went straight into the net with the referee appearing to give the goal initially. There were suspicions of obstruction on Van Stappershoef (who was excellent by the way), but the goal was disallowed as the ball hadn’t touched anyone on the way through. This didn’t stop the Bromley fans going mental and throwing a flare onto their plastic pitch. I’ll repeat that. They threw a flare on THEIR OWN PLASTIC PITCH! That promptly set on fire and there was a long stoppage for the fire to be put out and more of those black rubber pellets brought out to fill the hole.
 
-{{< figure src="https://i.ibb.co/G7bfYbF/76944089-2475132892763694-3430001036234850304-n.jpg" alt="bromley vs rovers" height="300" >}}
+{{< figure src="https://i.ibb.co/G7bfYbF/76944089-2475132892763694-3430001036234850304-n.jpg" alt="bromley vs rovers" height="500" >}}
 
 That was the highlight of what was a poor game. Bromley looked a decent side and they looked especially dangerous on the counter on the rare occasions we pushed forward. Our midfield was anonymous with bad decisions and bad passes being made all over the shop. The strikers weren’t much better. No balls up to them stuck and we didn’t work their keeper at all from what I can remember. 
 
